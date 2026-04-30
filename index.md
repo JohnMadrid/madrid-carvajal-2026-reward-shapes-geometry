@@ -22,7 +22,6 @@ To separate temporal dynamics within a trial from learning dynamics across trial
 :name: figure-main
 :alt: Reward-driven learning results in lower-dimensional representations.
 
-
 **A.** Schematic of experimental setup (_top left_), neural recordings (_middle_), analysis method (TCA) (_top right_), and obtained TCA factors for the first component for both learning paradigms in the before (_bottom right_) and after sessions (_bottom right_).
 \
 **B.** Reconstruction error of neural activity versus fixed rank decomposition for before and after sessions and for the two windows of interest (tunnel entrance and sound cue). Triangles and dots indicate the estimated rank for reward-driven and unrewarded sessions respectively. For fixed rank reward-driven learning captures consistently more variance in the neural activity after learning indicated by lower reconstruction error, hinting to a lower rank representation.
