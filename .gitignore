@@ -22,3 +22,7 @@ Thumbs.db
 .vscode/
 *.swp
 *.swo
+
+# PDF comparison / diff artifacts (local only)
+exports/diff/
+exports/paper.pdf
