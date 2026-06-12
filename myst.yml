@@ -8,7 +8,7 @@ project:
   # doi: 10.5281/zenodo.XXXXXXX
   # date: YYYY-MM-DD
   authors:
-  - name: Madrid-Carvajal, J.
+  - name: John Madrid-Carvajal.
     orcid: 0000-0001-5505-6499
     corresponding: true
     email: john.madridcarvajal@uos.de
@@ -27,7 +27,7 @@ project:
     - Visualization
     - Writing - original draft
     - Writing - review & editing
-  - name: Jeswanth, R.
+  - name: Rohit Jeswanth.
     orcid: 0009-0000-8055-6559
     equal_contributor: true
     email: rohit.jeswanth@research.iiit.ac.in
@@ -43,7 +43,7 @@ project:
     - Validation
     - Writing - original draft
     - Writing - review & editing
-  - name: Singh, I.
+  - name: Ishatpreet Singh.
     orcid: 0009-0005-4654-4972
     equal_contributor: true
     email: singhishatpreet2002@gmail.com 
@@ -59,7 +59,7 @@ project:
     - Validation
     - Writing - original draft
     - Writing - review & editing
-  - name: Kaurinkoski, K.
+  - name: Katja Kaurinkoski.
     orcid: 0000-0002-3897-8448
     equal_contributor: true
     email: katja.kaurinkoski@helsinki.fi 
@@ -76,7 +76,7 @@ project:
     - Writing - original draft
     - Writing - review & editing
 
-  - name: Maoutsa, D.
+  - name: Dimitra Maoutsa.
     orcid: 0000-0002-3553-8658
     corresponding: true
     email: dimitra.maoutsa@gmail.com
